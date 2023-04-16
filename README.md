@@ -54,7 +54,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Edu Tales
 
-[![Product Name Screen Shot][product-screenshot]](https://ibb.co/PQB9XGS)
 
 Edu Tales is an innovative educational app that offers a unique and interactive way for people of any age to learn through captivating stories
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
