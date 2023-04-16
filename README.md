@@ -71,12 +71,12 @@ The following technologies/libraries/dependencies are used.
 * [![Vite][https://vitejs.dev/]][vite-url]
 * [![Tailwind Css][https://tailwindcss.com/]][TaiwindCss-url]
 * [![OpenAi Api][https://platform.openai.com/overview]][QpenAi-url]
-* [![autoprefixer][JQuery.com]][autoprefixer-url]
-* [![postcss][JQuery.com]][postcss-url]
+* [![autoprefixer][https://www.npmjs.com/package/autoprefixer]][autoprefixer-url]
+* [![postcss][https://www.npmjs.com/package/postcss]][postcss-url]
 * [![cors][https://www.npmjs.com/package/dotenv]][cors-url]
-* [![dotenv][JQuery.com]][dotenv-url]
-* [![express][JQuery.com]][express-url]
-* [![nodemon][JQuery.com]][nodemon-url]
+* [![dotenv][https://www.npmjs.com/package/dotenv]][dotenv-url]
+* [![express][https://www.npmjs.com/package/express/v/4.18.2]][express-url]
+* [![nodemon][https://www.npmjs.com/package/nodemon]][nodemon-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
