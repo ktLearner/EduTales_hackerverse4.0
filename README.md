@@ -66,8 +66,8 @@ Edu Tales is an innovative educational app that offers a unique and interactive 
 
 The following technologies/libraries/dependencies are used.
 
-* [![Next][Next.js]][Next-url]
-* [![Vue][Vue.js]][Vue-url]
+* [![Next][https://nextjs.org/]][Next-url]
+* [![Vue][https://vuejs.org/]][Vue-url]
 * [![Vite][https://vitejs.dev/]][vite-url]
 * [![Tailwind Css][https://tailwindcss.com/]][TaiwindCss-url]
 * [![OpenAi Api][https://platform.openai.com/overview]][QpenAi-url]
